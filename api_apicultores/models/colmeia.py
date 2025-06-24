@@ -4,3 +4,5 @@ class Colmeia:
         self.nome = nome
         self.localizacao = localizacao
         self.saude = saude
+        
+
